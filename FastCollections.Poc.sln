@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastCollections.Poc.Implementation", "FastCollections.Poc.Implementation\FastCollections.Poc.Implementation.csproj", "{A926B67E-6FA1-4ECE-BE21-A7A8F3A2E6AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastCollections.Poc.Benchmarks", "FastCollections.Poc.Benchmarks\FastCollections.Poc.Benchmarks.csproj", "{C03C609F-53C9-43D4-80D8-4EDB88FAA2C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A926B67E-6FA1-4ECE-BE21-A7A8F3A2E6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A926B67E-6FA1-4ECE-BE21-A7A8F3A2E6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A926B67E-6FA1-4ECE-BE21-A7A8F3A2E6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A926B67E-6FA1-4ECE-BE21-A7A8F3A2E6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03C609F-53C9-43D4-80D8-4EDB88FAA2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03C609F-53C9-43D4-80D8-4EDB88FAA2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03C609F-53C9-43D4-80D8-4EDB88FAA2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03C609F-53C9-43D4-80D8-4EDB88FAA2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
